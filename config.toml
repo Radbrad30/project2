@@ -64,10 +64,10 @@ url = "https://calendly.com/"
   url = "/blog/"
 
   [[menu.main]]
-  name = "Post Series"
+  name = "Tags"
   weight = 3
-  identifier = "series"
-  url = "/series/"
+  identifier = "tags"
+  url = "/Tags/"
 
 
 [taxonomies]

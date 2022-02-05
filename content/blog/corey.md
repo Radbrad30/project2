@@ -5,6 +5,8 @@ draft: false
 tags: ["update"]
 ---
 
-![corey](tx.jpg)
 
+
+![Example image](/images/you.jpg) 
 Howdy!
+

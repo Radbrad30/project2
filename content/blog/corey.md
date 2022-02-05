@@ -19,7 +19,7 @@ My name is Corey Whitfield and I am a senior here at Texas A&M University. I cam
 
 
 
-So enoguh about school and the amazing career that is planned ahead of me, lets talk about me outside of all the serious stuff. :laughing:
+So enough about school and the amazing career that is planned ahead of me, lets talk about me outside of all the serious stuff. :laughing:
 ![My dog Conner](/project2/images/conner.jpg)
 
 :dog: 
@@ -31,7 +31,7 @@ So enoguh about school and the amazing career that is planned ahead of me, lets 
 
 
 
-I was told that I was one of the nices most respectful person in the world.:smile: That doesn't mean I can't get :angry: though. Get out of line and I will
+I was told that I was one of the nices most respectful people in the world.:smile: That doesn't mean I can't get :angry: though. Get out of line and I will
 
 
 ![Alt Text](https://giffiles.alphacoders.com/242/2425.gif)

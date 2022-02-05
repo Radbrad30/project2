@@ -5,7 +5,71 @@ theme = "anatole"
 enableEmoji = true
 
 [params]
-title = "The Next Generation"
 author = "The Next Generation"
 description = "The Life of an Aggie"
+contentratio = 0.8
+copyright = "2019-{{ YEAR }}"
+doNotLoadAnimations = false
+favicon = "favicon/"
+images = ["images/tx.jpg"]
+indexDateFormat = "2006-01-02"
+mainSections = ["blog"]
+profilePicture = "images/tx.jpg"
+readMore = true
+singleDateFormat = "2006-01-02"
+title = "The Next Generation"
 
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/CoreSSJ"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/"
+
+[[params.socialIcons]]
+
+[[params.socialIcons]]
+icon = "fab fa-orcid"
+title = "ORCID"
+url = "https://orcid.org/"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/"
+
+[[params.socialIcons]]
+icon = "fas fa-calendar"
+title = "Calendar"
+url = "https://calendly.com/"
+
+## Menu items
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 1
+  url = "/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 2
+  identifier = "blog"
+  url = "/blog/"
+
+  [[menu.main]]
+  name = "Post Series"
+  weight = 3
+  identifier = "series"
+  url = "/series/"
+
+
+[taxonomies]
+series = "series"
+tag = "tags"

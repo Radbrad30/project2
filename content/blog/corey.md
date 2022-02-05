@@ -7,6 +7,6 @@ tags: ["update"]
 
 
 
-![Example image](/images/you.jpg) 
+![Example image](/static/images/you.jpg) 
 Howdy!
 

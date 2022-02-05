@@ -6,7 +6,6 @@ tags: ["update"]
 
 <center>
 
-!["Example image"](/project2/images/you.jpg) 
 
 ![This is me at a wedding](/project2/images/you.jpg)
 

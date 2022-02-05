@@ -1,0 +1,11 @@
+
+baseURL = "https://CoreSSJ.github.io/"
+languageCode = "en-us"  # Update to "en-us" 
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "The Next Generation"
+author = "The Next Generation"
+description = "The Life of an Aggie"
+

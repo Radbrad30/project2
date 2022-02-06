@@ -31,7 +31,7 @@ So enough about school and the amazing career that is planned ahead of me, lets 
 
 
 
-I was told that I was one of the nices most respectful people in the world.:smile: That doesn't mean I can't get :angry: though. Get out of line and I will
+I was told that I was one of the nicest most respectful people in the world.:smile: That doesn't mean I can't get :angry: though. Get out of line and I will
 
 
 ![Alt Text](https://giffiles.alphacoders.com/242/2425.gif)

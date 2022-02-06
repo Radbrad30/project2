@@ -33,6 +33,6 @@ I was told that I was one of the nicest most respectful people in the world.:smi
 ![Alt Text](https://giffiles.alphacoders.com/242/2425.gif)
 
 
-🤡 Just playing but I hope whoever is reading this the best time of your life.
+🤡 Just playing but I hope whoever is reading this experience get the chance to feel the positivity that is flowing in the environment.
 
 

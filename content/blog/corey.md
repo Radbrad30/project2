@@ -4,14 +4,14 @@ date: 2022-02-05T00:48:47-06:00
 tags: ["update", "bio", "Introduction"]
 ---
 
-<center>
+
 
 
 ![This is me at a wedding](/project2/images/you.jpg)
 
 
 
-</center>
+
 
 Howdy!
 My name is Corey Whitfield and I am a senior here at Texas A&M University. I came to this university to enroll in the Technology Management program so I can pursue a career as a Database Administrator.
